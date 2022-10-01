@@ -1,3 +1,6 @@
+
+// Print star in increasing order.
+
 public class PrintStars {
     public static void main(String[] args) {
 
@@ -7,6 +10,7 @@ public class PrintStars {
                 System.out.print("*");
             }
             System.out.println();
+
         }
     }
 
