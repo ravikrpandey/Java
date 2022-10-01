@@ -1,4 +1,4 @@
-public class printStars {
+public class PrintStars {
     public static void main(String[] args) {
 
         int row = 5;
@@ -8,6 +8,6 @@ public class printStars {
             }
             System.out.println();
         }
-
     }
+
 }
